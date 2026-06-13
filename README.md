@@ -7,6 +7,7 @@
 **lua** <br> roblox
 
 ## projects
+most of the projects that don't have a source code released yet either are not done or i want to clean it up more
 <details>
   <summary><b>embedded systems (C/TM4C123GXL)</b></summary>
 
@@ -33,6 +34,9 @@
 <details>
   <summary><b>desktop utilities (python)</b></summary>
 
-  **WIP**
+  **finished**
+
+  - **ADB GUI Tool**, as the name says, it makes adb commands more introducable to beginners
+  - **Nimbus**, a CLI weather app
 
 </details>
