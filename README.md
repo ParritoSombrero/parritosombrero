@@ -35,7 +35,4 @@
 
   **WIP**
 
-  - **sysexec**, a program that lets you swap system while in terminal
-  - **rootbox**, a program that shortens commands like 'cat /proc/mounts'
-
 </details>
