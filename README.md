@@ -1,4 +1,3 @@
-# adachi rei is the goat
 ## coding languages
 **C** <br>doing embedded work @ bare metal for the tm4c123gxl<br>doing command line tools for android occasionally
 
