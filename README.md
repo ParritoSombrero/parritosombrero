@@ -10,7 +10,7 @@ most of the projects that don't have a source code released yet either are not d
 <details>
   <summary><b>embedded systems (C/TM4C123GXL)</b></summary>
 
-  **WIP**
+  **finished & still updating**
 
   - **UART command parser**
   
@@ -33,7 +33,7 @@ most of the projects that don't have a source code released yet either are not d
 <details>
   <summary><b>desktop utilities (python)</b></summary>
 
-  **finished**
+  **finished & rarely updating**
 
   - **ADB GUI Tool**, as the name says, it makes adb commands more introducable to beginners
   - **Nimbus**, a CLI weather app
